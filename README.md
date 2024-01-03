@@ -1,2 +1,2 @@
-# legacies
-GitHub for the Legacies modpack
+# Random VS Modpack & Stuff
+GitHub for the mainly sea based trade and commerce modpack
